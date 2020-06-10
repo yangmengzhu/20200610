@@ -1,0 +1,1 @@
+@java -cp "E:\java´úÂëÁ·Ï°\20200605\out\production\20200605" com.yang.sql.MysqlClient1 %*
